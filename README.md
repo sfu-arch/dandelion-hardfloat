@@ -52,4 +52,5 @@ Publish locally using chisel3
 -----------------------------
 
 Harfloat uses chisel2, for publishing the code we need to run the following command:
+    
     $ sbt -DchiselVersion="latest.release" "publishLocal"
