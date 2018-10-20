@@ -1,6 +1,8 @@
 Berkeley Hardware Floating-Point Units
 ======================================
 
+** This is fork of http://[berkeley-hardfloat](https://github.com/ucb-bar/berkeley-hardfloat) library with minor tweaks. **
+
 This repository contains hardware floating-point units written in Chisel.
 This library contains parameterized floating-point units for fused multiply-add
 operations, conversions between integer and floating-point numbers, and
